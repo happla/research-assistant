@@ -17,3 +17,6 @@ venv/
 # If you don't want to upload your personal PDF to public GitHub, uncomment the next line:
  art_of_electronics.pdf
  workflow
+art_of_electronics.pdf
+.python-version
+workflow
