@@ -22,7 +22,7 @@ pip install -r requirements.txt
 ## Usage
 1. ensure ollama is running and the model is pulled:
 ```
-ollama pull llama3
+ollama pull llama3.2:3b
 ```
 
 2. Place you technical pdf in the project root
