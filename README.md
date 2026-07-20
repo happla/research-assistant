@@ -34,7 +34,9 @@ python main.py
 4. Ask questions regarding your documents.
 
 ### Example output
-[output.png]
+<p align="left">
+<img src="https://github.com/happla/research-assistant/blob/main/Output.png" width="350" title="output.png">
+</p>
 
 ### Future improvements
 * Add a Gradio or Streamlit UI for a better user experience
