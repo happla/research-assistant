@@ -1,0 +1,23 @@
+#Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+#Database & Persistence
+# Exclude the vector database folder
+chroma_db/
+
+#Environment & Secrets
+.env
+.venv/
+venv/
+env/
+.env.local
+
+# OS generated files 
+.DS_Store
+Thumbs.db
+
+#Documents
+art_of_electronics.pdf
+workflow
