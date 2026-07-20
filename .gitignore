@@ -1,0 +1,19 @@
+.venv/
+# Local database (ChromaDB)
+chroma_db/
+
+# Python environment and cache
+__pycache__/
+*.pyc
+.env
+.venv/
+env/
+venv/
+
+# OS metadata
+.DS_Store
+
+# Large PDF files (Optional)
+# If you don't want to upload your personal PDF to public GitHub, uncomment the next line:
+ art_of_electronics.pdf
+ workflow
