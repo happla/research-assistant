@@ -7,8 +7,8 @@ This project implements a locally-hosted RAG(Retrieval-Augmented Generation) pip
 * Fully local execution via Ollama; no data leaves the local machine.
 
 ### Requirements:
-Ollama [https://ollama.com]
-Python 3.10+ [https://www.python.org/downloads/release/python-3100/]
+* Ollama [https://ollama.com]
+* Python 3.10+ [https://www.python.org/downloads/release/python-3100/]
 
 ### Installation
 ```
